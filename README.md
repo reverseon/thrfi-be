@@ -1,2 +1,2 @@
-# thrfi-be
-Back-end for https://thr.fi
+# Backend Services for thr.fi
+Back-end for https://thr.fi using Cloudflare Workers and Cloudflare KV
